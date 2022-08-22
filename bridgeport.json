@@ -1,9 +1,9 @@
 {
   "bridgeport": "0.2.0",
-  "id":"1HDmSPyKPxifjSoq7gfUWjges3eRx3DeB7",
-  "name":"Bridge one",
-  "description":"My first bridge",
-  "testnetRepoToken":"ATWIjDraQfWz45VS",
+  "id":"12B6xyt8BEbyBTfJVsMCKvCjVr75wEcpHW",
+  "name":"Bridge two",
+  "description":"My second bridge",
+  "testnetRepoToken":"09OYAfepbctQVTDG",
   "version": "1.0.0",
   "reader": {
     "runtime": "nodejs14",
