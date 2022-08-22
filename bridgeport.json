@@ -1,9 +1,9 @@
 {
   "bridgeport": "0.2.0",
-  "id":"1HDmSPyKPxifjSoq7gfUWjges3eRx3DeB7",
+  "id":"13LtWKFtb4KNHNESurYaai7jeErQKRKSJa",
   "name":"Bridge one",
   "description":"My first bridge",
-  "testnetRepoToken":"ATWIjDraQfWz45VS",
+  "testnetRepoToken":"cabKypgi9fiNvfLI",
   "version": "1.0.0",
   "reader": {
     "runtime": "nodejs14",
