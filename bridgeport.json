@@ -1,9 +1,9 @@
 {
   "bridgeport": "0.2.0",
-  "id":"13LtWKFtb4KNHNESurYaai7jeErQKRKSJa",
-  "name":"Bridge one",
-  "description":"My first bridge",
-  "testnetRepoToken":"cabKypgi9fiNvfLI",
+  "id":"1NatsoCWEwNB6DED7MhzaBo1DezajrnhAE",
+  "name":"New Bridge one",
+  "description":"My first new bridge",
+  "testnetRepoToken":"yi3i76e0mghfk0Ka",
   "version": "1.0.0",
   "reader": {
     "runtime": "nodejs14",
@@ -13,5 +13,5 @@
     "runtime": "nodejs14",
     "directory": "./transformer"
   }
-  
 }
+
